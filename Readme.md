@@ -28,6 +28,7 @@ this is a beta proof of concept that doesnt require a plugin, this would be bett
 
 im not a css wizard and this was hammed together so wont look great on every single platform feel free to submit pull requests or comments with your css that makes this better or even add suggestion ideas for how to make it look less shit 
 
-![Screenshot 2025-06-19 001452](https://github.com/user-attachments/assets/9677d592-341d-45ef-bf4d-ccd63a37c1d5)
 ![Screenshot 2025-06-19 001440](https://github.com/user-attachments/assets/21fd8731-67d3-4ccc-aaec-0c89df9aa8c4)
+
+![Screenshot 2025-06-19 001452](https://github.com/user-attachments/assets/9677d592-341d-45ef-bf4d-ccd63a37c1d5)
 
