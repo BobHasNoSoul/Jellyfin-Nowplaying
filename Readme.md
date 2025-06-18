@@ -2,7 +2,7 @@ okay so this works on linux systems (not a clue on windows installs, currently i
 
 # install instructions
 
-download crontab folder to your server BUT NOT INSIDE WEBROOT this is important
+download jsonmaker.sh to your server BUT NOT INSIDE WEBROOT this is important
 
 now you simply need to edit the obvious parts in jsonmaker.sh (api key can be generated in the admin pannel > api keys inside of jellyfin) save and run
 
@@ -10,7 +10,7 @@ now you simply need to edit the obvious parts in jsonmaker.sh (api key can be ge
 
 add the following but alter the path to where it is saved on your system
 
-`*/2 * * * * /path/to/jsonmaker.sh` 
+`*/1 * * * * /path/to/jsonmaker.sh` 
 
 now you have to inject a script to index.html in jellyfins webroot
 
